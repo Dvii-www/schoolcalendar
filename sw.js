@@ -1,7 +1,7 @@
 // Sube este número cada vez que subas cambios de index.html — así los
 // celulares que ya tienen la app instalada descargan la versión nueva
 // en vez de quedarse con la copia guardada en caché.
-const VERSION = 'v1';
+const VERSION = 'v2';
 
 const CACHE_NAME = 'mi-horario-' + VERSION;
 const ARCHIVOS_A_GUARDAR = [
